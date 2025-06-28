@@ -39,6 +39,7 @@
 
       https://github.com/AratiKale7620/Development-a-Functional-Quizzing-App/blob/9d520bf36dfe34badf6b04c161b11296bccf160f/Screenshot%20(91).png
 
+      https://github.com/AratiKale7620/Development-a-Functional-Quizzing-App/blob/main/Screenshot%20(87).png?raw=true
 
       https://github.com/AratiKale7620/Development-a-Functional-Quizzing-App/blob/main/Screenshot%20(88).png?raw=true
 
