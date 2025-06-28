@@ -36,7 +36,8 @@
 
 🖥️  Screenshots :
 
-      ![Screenshot (90)](https://github.com/user-attachments/assets/ba6659fc-da53-4fe2-9336-595642d8be0e)
+
+      https://github.com/AratiKale7620/Development-a-Functional-Quizzing-App/blob/9d520bf36dfe34badf6b04c161b11296bccf160f/Screenshot%20(91).png
 
       
 
