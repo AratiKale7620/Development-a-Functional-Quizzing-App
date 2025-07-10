@@ -47,6 +47,15 @@
 
       https://github.com/AratiKale7620/Development-a-Functional-Quizzing-App/blob/main/Screenshot%20(90).png?raw=true
 
+
+🔧 How to Run the Project :
+
+    Clone the repository
+
+    git clone https://github.com/AratiKale7620/Development-a-Functional-Quizzing-App-project.git
+
+
+
       
 
       
